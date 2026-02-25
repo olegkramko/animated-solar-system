@@ -1,2 +1,2 @@
 # animated-solar-system
-Animated Solar System
+Animated Solar System with sun and planets
